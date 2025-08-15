@@ -30,3 +30,9 @@ counter-app/
 │── index.html      # HTML structure
 │── style.css       # Styling for the counter
 │── script.js       # JavaScript logic
+
+---
+
+## 🖼 Preview
+
+![Counter App Preview](counter.PNG)
