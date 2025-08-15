@@ -24,6 +24,13 @@ This project was created as part of my learning journey in JavaScript DOM manipu
 
 ---
 
+## 🖼 Preview
+
+![Counter App Preview](counter.PNG)
+
+---
+
+
 ## 📂 Project Structure
 ```plaintext
 counter-app/
@@ -33,6 +40,4 @@ counter-app/
 
 ---
 
-## 🖼 Preview
 
-![Counter App Preview](counter.PNG)
